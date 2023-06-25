@@ -27,3 +27,22 @@ or
 
     yarn install
 # Built with
+### Front-end 
+  - [HTML5](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+  - [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  - [bootsrap](https://getbootstrap.com/)
+  -  [ejs](https://ejs.co/)
+### Back-end
+  - [express](http://expressjs.com/)
+  - [mongoDB](https://www.mongodb.com/)
+  - [mongoose](https://mongoosejs.com/)
+  - [async](http://caolan.github.io/async/v3/)
+  - [helmet](https://helmetjs.github.io/)
+  - [passport](http://www.passportjs.org/)
+  - [express-session](https://github.com/expressjs/session#express-session)
+  - [method-override](https://github.com/expressjs/method-override#method-override)
+  - [connect-flash](https://github.com/jaredhanson/connect-flash#connect-flash)
+### Platforms
+  -[Cloudinary](https://cloudinary.com/)
+  -[Render](https://render.com/)
+  -[Mapbox](https://account.mapbox.com/)
