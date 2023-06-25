@@ -23,6 +23,6 @@ To see the app in action, go to [https://campgroundapp.onrender.com](https://cam
     git clone https://github.com/lucasweng/yelp-camp.git
 ### Install dependencies
     npm install
-or
+### or
     yarn install
 # Built with
