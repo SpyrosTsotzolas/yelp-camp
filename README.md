@@ -43,6 +43,9 @@ or
   - [method-override](https://github.com/expressjs/method-override#method-override)
   - [connect-flash](https://github.com/jaredhanson/connect-flash#connect-flash)
 ### Platforms
+
   -[Cloudinary](https://cloudinary.com/)
+  
   -[Render](https://render.com/)
+  
   -[Mapbox](https://account.mapbox.com/)
