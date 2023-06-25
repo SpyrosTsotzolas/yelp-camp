@@ -36,6 +36,7 @@ or
   - [mongoDB](https://www.mongodb.com/)
   - [mongoose](https://mongoosejs.com/)
   - [async](http://caolan.github.io/async/v3/)
+  - [axios](https://axios-http.com/docs/intro)
   - [helmet](https://helmetjs.github.io/)
   - [passport](http://www.passportjs.org/)
   - [express-session](https://github.com/expressjs/session#express-session)
